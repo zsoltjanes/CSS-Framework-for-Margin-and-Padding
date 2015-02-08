@@ -2,14 +2,17 @@
 
 You can call the right, left, top and bottom margins wits some short code
 
+
 // Example //
 
 If you want to make margin-left: 20px, than enough if you call "ml20" class.
 <div class="ml20"></div>
 
+
 // Let's se what is it //
 
 It's working from -50 to 50. When you wanted to use minus parameter you have to write "mlm20" class for make margin-left: -20px.
+
 
 m - means margin
 

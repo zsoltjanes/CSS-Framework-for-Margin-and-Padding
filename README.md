@@ -12,20 +12,20 @@ If you want to make margin-left: 20px, than enough if you call "ml20" class.
 
 ## Shortcode
 
-margin-right code: mr
-margin-right minus code: mrm
-margin-left code: ml
-margin-left minus code: mlm
-margin-bottom code: mb
-margin-bottom minus code: mbm
-margin-top code: mt
-margin-top minus code: mtm
-
-padding-right code: pr
-padding-right minus code: prm
-padding-left code: pl
-padding-left minus code: plm
-padding-bottom code: pb
-padding-bottom minus code: pbm
-padding-top code: pt
-padding-top minus code: ptm
+margin-right code: mr<br>
+margin-right minus code: mrm<br>
+margin-left code: ml<br>
+margin-left minus code: mlm<br>
+margin-bottom code: mb<br>
+margin-bottom minus code: mbm<br>
+margin-top code: mt<br>
+margin-top minus code: mtm<br>
+<br>
+padding-right code: pr<br>
+padding-right minus code: prm<br>
+padding-left code: pl<br>
+padding-left minus code: plm<br>
+padding-bottom code: pb<br>
+padding-bottom minus code: pbm<br>
+padding-top code: pt<br>
+padding-top minus code: ptm<br>
